@@ -14,8 +14,6 @@ mongoose.connect('mongodb+srv://user:user@cluster0-0v0b4.mongodb.net/semana09?re
 app.use(express.json())
 app.use(routes)
 
-
-
-app.listen(3000);
+app.listen(3030);
 
 
